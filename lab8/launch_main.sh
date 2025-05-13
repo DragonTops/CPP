@@ -1,0 +1,2 @@
+
+./build/bin/lab8
